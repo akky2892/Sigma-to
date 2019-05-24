@@ -13,8 +13,8 @@ Vendors such as Splunk, Qradar, Arcsight and Elasticsearch are included. The spr
 **SIGMA-to-SPLUNK                                                                                                                             
 SIGMA-to-QRADAR                                                                                                                               
 SIGMA-to-ARCSIGHT                                                                                                                             
-SIGMA-to-ELASTICSEARCH
-**
+SIGMA-to-ELASTICSEARCH**
+
 
 
 No scripting, No conversion process, it's a readily available spreadsheet.
