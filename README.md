@@ -10,10 +10,10 @@ This repository contains:
 Organized and simplified spreadsheet containing all the sigma rules and their conversion/translation to various SIEM vendors.
 Vendors such as Splunk, Qradar, Arcsight and Elasticsearch are included. The spreadsheet contains search queries compatible with respective SIEM vendors.
 
-**SIGMA-to-SPLUNK                                                                                                                             
-SIGMA-to-QRADAR                                                                                                                               
-SIGMA-to-ARCSIGHT                                                                                                                             
-SIGMA-to-ELASTICSEARCH**
+**> - SIGMA-to-SPLUNK                                                                                                                             
+> - SIGMA-to-QRADAR                                                                                                                               
+> - SIGMA-to-ARCSIGHT                                                                                                                             
+> - SIGMA-to-ELASTICSEARCH**
 
 
 
