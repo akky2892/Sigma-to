@@ -1,7 +1,7 @@
 # Sigma-to
-Sigma-to project refers to converting sigma rules to something which we use in enterprise environment.
+**Sigma-to** project refers to converting sigma rules to something which we use in enterprise environment.
 
-Sigma is Generic Signature Format for SIEM Systems written by Florian Roth @Neo23x0 and Thomas Patzke. All the sigma rules are available at:- https://github.com/Neo23x0/sigma 
+Sigma is Generic Signature Format for SIEM Systems written by **Florian Roth @Neo23x0** and **Thomas Patzke**. All the sigma rules are available at:- https://github.com/Neo23x0/sigma 
 
 Sigma is a generic and open signature format that allows you to describe relevant log events in a straight forward manner. 
 Sigma is for log files what Snort is for network traffic and YARA is for files.
