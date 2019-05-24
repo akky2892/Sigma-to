@@ -19,4 +19,6 @@ Vendors such as Splunk, Qradar, Arcsight and Elasticsearch are included. The spr
 No scripting, No conversion process, it's a readily available spreadsheet.
 Kindly refer directly to the search queries for Threat hunting in your environment.
 
+Spreadsheet is also available online via google sheets:- **https://docs.google.com/spreadsheets/d/1mY6BGYZgwPH3UiVAdxU4Hraa9n1gFLXSMcR_5mhs0GE/edit?usp=sharing**
+
 
